@@ -1,0 +1,7 @@
+/example
+/statistics_with_scrapy
+/.idea
+/__pycache__
+moskali.json
+async_scraper.py
+bs.py
